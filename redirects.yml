@@ -16,6 +16,10 @@
   to: https://www.jianguoyun.com/p/De5vIJAQwrWwChj85LME
 - from: /share/temp
   to: https://www.jianguoyun.com/p/DQ2QobgQwrWwChj-5LME
+- from: /khl
+  to: https://kaihei.co/tulrWm
+- from: /khl/fas
+  to: https://kaihei.co/vqJlGd
 # - from: /google/:q # Match exactly one ex. /google/recursion
 #   to: https://google.com/search?q=:q
 # - from: /vercel/:slug* # Match zero or more ex. /vercel /vercel/docs /vercel/solutions/nextjs
