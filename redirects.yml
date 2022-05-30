@@ -1,6 +1,8 @@
 #### Personal Pages ####
 - from: /me
-  to: https://github.com/YehowahLiu
+  to: https://redme.cc
+- from: /blog
+  to: https://redme.cc
 - from: /github
   to: https://github.com/YehowahLiu
 - from: /bilibili
