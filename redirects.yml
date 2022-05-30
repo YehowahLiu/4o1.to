@@ -7,6 +7,8 @@
   to: https://space.bilibili.com/54438788
 - from: /live
   to: https://live.bilibili.com/22744945
+- from: /afdian
+  to: https://afdian.net/@401Unauthorized
 #### File Transfer ####
 - from: /share/fas
   to: https://www.jianguoyun.com/p/DVbf1yAQwrWwChj25LME
