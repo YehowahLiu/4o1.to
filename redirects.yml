@@ -11,6 +11,8 @@
   to: https://live.bilibili.com/22744945
 - from: /afdian
   to: https://afdian.net/@401Unauthorized
+- from: /khl
+  to: https://kaihei.co/tuIrWm
 #### File Transfer ####
 - from: /share/fas
   to: https://www.jianguoyun.com/p/DVbf1yAQwrWwChj25LME
@@ -20,10 +22,11 @@
   to: https://www.jianguoyun.com/p/De5vIJAQwrWwChj85LME
 - from: /share/temp
   to: https://www.jianguoyun.com/p/DQ2QobgQwrWwChj-5LME
-- from: /khl
-  to: https://kaihei.co/tuIrWm
+#### Others #####
 - from: /khl/fas
   to: https://kaihei.co/vqJlGd
+  
+#### Templates ####
 # - from: /google/:q # Match exactly one ex. /google/recursion
 #   to: https://google.com/search?q=:q
 # - from: /vercel/:slug* # Match zero or more ex. /vercel /vercel/docs /vercel/solutions/nextjs
