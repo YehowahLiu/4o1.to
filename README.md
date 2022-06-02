@@ -9,6 +9,6 @@
 修改 `redirects.yml`并发起pull request
 
 ## TODO:
-- [ ] 自定义主页与404页面
+- [x] 自定义主页与404页面
 - [ ] 通过 Github Workflow 支持通过issue发起添加链接的pr
 - [ ] 添加使用次数统计相关
