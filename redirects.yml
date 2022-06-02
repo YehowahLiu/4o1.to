@@ -25,7 +25,6 @@
 #### Others #####
 - from: /khl/fas
   to: https://kaihei.co/vqJlGd
-  
 #### Templates ####
 # - from: /google/:q # Match exactly one ex. /google/recursion
 #   to: https://google.com/search?q=:q
