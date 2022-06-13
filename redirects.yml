@@ -25,6 +25,8 @@
 #### Others #####
 - from: /khl/fas
   to: https://kaihei.co/vqJlGd
+- from: /feishu
+  to: https://redme-cc.feishu.cn/invite/member/A4UMGYN_ag5Yuxcs
 #### Templates ####
 # - from: /google/:q # Match exactly one ex. /google/recursion
 #   to: https://google.com/search?q=:q
