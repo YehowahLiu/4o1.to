@@ -12,7 +12,9 @@
 - from: /afdian
   to: https://afdian.net/@401Unauthorized
 - from: /khl
-  to: https://kaihei.co/tuIrWm
+  to: https://kook.top/tuIrWm
+- from: /kook
+  to: https://kook.top/tuIrWm
 #### File Transfer ####
 - from: /share/fas
   to: https://www.jianguoyun.com/p/DVbf1yAQwrWwChj25LME
@@ -24,7 +26,9 @@
   to: https://www.jianguoyun.com/p/DQ2QobgQwrWwChj-5LME
 #### Others #####
 - from: /khl/fas
-  to: https://kaihei.co/vqJlGd
+  to: https://kook.top/vqJlGd
+- from: /kook/fas
+  to: https://kook.top/vqJlGd
 - from: /feishu
   to: https://redme-cc.feishu.cn/invite/member/A4UMGYN_ag5Yuxcs
 #### Templates ####
